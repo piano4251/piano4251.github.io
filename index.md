@@ -6,14 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+![Uploading 2Pcs-Metal-Pin-Art-3D-Sculpture-Toy-Shapes-Design-Pins-Pinart-S-Size-Artist-Work.jpg…]()
 
 - Bulleted
 - List
